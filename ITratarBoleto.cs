@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace ApiBancos
+namespace BoletoOnline.BancoBrasil
 {
    [ComVisible(true)]
    [InterfaceType(ComInterfaceType.InterfaceIsDual)]

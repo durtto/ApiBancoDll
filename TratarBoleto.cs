@@ -1,8 +1,9 @@
-﻿using System;
+﻿using BoletoOnline.BancoBrasil;
+using System;
 using System.IO;
 using System.Runtime.InteropServices;
 
-namespace ApiBancos
+namespace BoletoOnline.BancoBrasil
 {
    [ComVisible(true)]
    [ClassInterface(ClassInterfaceType.None)]
